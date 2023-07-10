@@ -1,4 +1,4 @@
-﻿    // 2. Большее из 2вух чисел
+﻿    // 2. Большее из двух чисел
 Console.WriteLine("Введите число 1 : ");
 int number1 = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите число 2 : ");
